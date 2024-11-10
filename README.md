@@ -1,0 +1,1 @@
+hardhat ignition wipe <deploymentid> <futureId>
